@@ -1,0 +1,7 @@
+D:\Системное программирование\MVS проекты - примеры\Sample_9 - PoolThreads\Sample_9\Sample_9\bin\Debug\Sample_9.exe.config
+D:\Системное программирование\MVS проекты - примеры\Sample_9 - PoolThreads\Sample_9\Sample_9\bin\Debug\Sample_9.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_9 - PoolThreads\Sample_9\Sample_9\bin\Debug\Sample_9.pdb
+D:\Системное программирование\MVS проекты - примеры\Sample_9 - PoolThreads\Sample_9\Sample_9\obj\Debug\Sample_9.csproj.AssemblyReference.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_9 - PoolThreads\Sample_9\Sample_9\obj\Debug\Sample_9.csproj.CoreCompileInputs.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_9 - PoolThreads\Sample_9\Sample_9\obj\Debug\Sample_9.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_9 - PoolThreads\Sample_9\Sample_9\obj\Debug\Sample_9.pdb
